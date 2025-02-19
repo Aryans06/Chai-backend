@@ -1,0 +1,27 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "first.js",
+  "scripts": {
+    "start": "node first.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryans06/Chai-backend.git"
+  },
+  "keywords": [
+    "node",
+    "chai",
+    "maza"
+  ],
+  "author": "Aryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aryans06/Chai-backend/issues"
+  },
+  "homepage": "https://github.com/Aryans06/Chai-backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
